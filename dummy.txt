@@ -1,1 +1,2 @@
 Hello, this is another file under the branch Test1
+This is our Second edit on dummy.txt file.
